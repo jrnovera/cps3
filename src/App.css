@@ -1,0 +1,14 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cardHighlight {
+  min-height: 100%;
+}
+.my-carousel {
+  max-width: 60%; /* Adjust the percentage as needed */
+  margin: auto;
+}
